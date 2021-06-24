@@ -1,0 +1,65 @@
+.resimSlider{
+    height: 610px;    
+}
+
+body{      
+  font-family: 'Raleway', sans-serif;
+}
+
+.aboutus1{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border-top:3px solid #343a40;
+    border;none;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+    
+}
+
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.ekipCard>img:hover{
+    opacity: 0.8;
+    
+}
+
+#aboutusrsm{
+    width: 35%;
+    height: 30%;
+    float: left;
+    border-radius: 1%;
+    margin: 2%;
+    margin-bottom: 1%;
+    transition: opacity 0.8s;
+    
+}
+
+#aboutusrsm:hover{
+    opacity: 0.6;
+}
+
+}
+.kayanyazi{
+    margin-right: 1,5%;
+    font-size: 1,5%;
+    font-family: Cambria;
+    text-indent: 4%;
+    color: black;
+}
